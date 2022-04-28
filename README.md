@@ -1,6 +1,6 @@
 # Dariya Angelova's Final Project
 
-This appliacation is a demonstration of Access Control with Obligations. It is a gamified resource to teach people more about this topic.
+This application is a demonstration of Access Control with Obligations. It is a gamified resource to teach people more about this topic.
 
 ## Installation
 
